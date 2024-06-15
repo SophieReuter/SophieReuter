@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a calculator app](https://github.com/SophieReuter/calculator)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m learning **React**
 
 - 📫 How to reach me **reuter_sophie@t-online.de**
 
