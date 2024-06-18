@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Munich</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on [a calculator app](https://github.com/SophieReuter/calculator)
+- 🔭 My newest project is [a calculator app](https://github.com/SophieReuter/calculator)
 
 - 🌱 I’m learning **React**
 
